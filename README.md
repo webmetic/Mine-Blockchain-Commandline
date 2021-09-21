@@ -1,7 +1,7 @@
 # Mine-Blockchain-Commandline
 I made a command line application for storing data in a blockchain. I've tried my best to fix all the possible bugs you might come across. You can use the "Mine_backend.py" file as a module directly as well. It uses MySql to store the blocks in the blockchain.
 
-![image](https://user-images.githubusercontent.com/74499053/134213822-782184b2-27ea-4c53-af26-c63902c62921.png)
+![image](https://user-images.githubusercontent.com/74499053/134214025-8a47b831-2c8a-4952-b714-69cfcfa600a3.png)
 
 Unrelated note:
 I just used this after like 3 months and it's incrediby easy to use. Don't even complain.
